@@ -1,6 +1,7 @@
 Top attacks
 
 1. Phishing
+
 Attacker impersonates a trustworthy entity to deceive victims into revealing sensitive information such as passwords or credit card details.
 
 2. Denial of Service (DoS)
